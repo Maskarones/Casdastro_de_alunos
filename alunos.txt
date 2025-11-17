@@ -1,0 +1,3 @@
+LISTA DE ALUNOS
+
+Matrícula: 000 | Nome: Karlos | Nascimento: 10-10-1010

@@ -1,0 +1,3 @@
+LISTA DE DISCIPLINAS
+
+ID: 4 | Nome: Modelagem UML | Turno: Vespertino | Sala: 204 | Professor: Macos
